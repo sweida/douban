@@ -8,6 +8,8 @@
 Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent
 </p>
 
+### demo
+https://sweida.github.io/demo/4/#/
 
 <br>
 
